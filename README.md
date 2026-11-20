@@ -10,4 +10,4 @@ People call me MA. I'm
 - 📫 Reach me at instanceofma@gmail.com
 - ⚡ Fun fact: I'm a foodie and I sing when I'm alone, sometimes not just when I'm alone :P.
 
-more [here](https://instanceofMA.github.io).
+more [here](instanceofma.com).
